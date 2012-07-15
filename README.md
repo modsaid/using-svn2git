@@ -34,7 +34,7 @@ make sure you have git, ruby and rubygems installed
     $ cd using-svn2git
     $ bundle install
     $ mkdir ../new_repo && cd ../new_repo
-    $ svn2git http://svn.example.com/path/to/repo --authors ~/authors.txt    
+    $ svn2git http://svn.example.com/path/to/repo --authors ~/authors.txt -v --username YOUR_SVN_USER   
 
 Credits
 -------
