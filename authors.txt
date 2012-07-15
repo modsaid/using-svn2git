@@ -1,0 +1,3 @@
+svnuser1= gituser1 <user1@example.com>
+svnuser2= gituser2 <user2@example.com>
+modsaid=modsaid <mahmoud@modsaid.com>
