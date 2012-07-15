@@ -3,10 +3,10 @@ using-svn2git
 
 A quick way to get svn2git working directly with the least commands, by having the needed dependecies in a Gemfile
 
-# make sure you have standard repo structure (check https://github.com/nirvdrum/svn2git if you have another strucutre)
-# have your authors file ready if needed
-# bundle install
-# svn2git <repo> --authors ~/authors.txt
+1. make sure you have standard repo structure (check https://github.com/nirvdrum/svn2git if you have another strucutre)
+2. have your authors file ready if needed
+3. bundle install
+4. svn2git <repo> --authors ~/authors.txt
 
 standard repo strucutre
 -----------------------
