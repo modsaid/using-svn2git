@@ -39,5 +39,5 @@ make sure you have git, ruby and rubygems installed
 Credits
 -------
 
-Author: modsaid <mahmoud@modsaid.com>
-Thanks to the svn2git original creators
+* Author: modsaid <mahmoud@modsaid.com>
+* Thanks to the svn2git original creators
