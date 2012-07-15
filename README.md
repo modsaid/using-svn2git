@@ -34,7 +34,11 @@ make sure you have git, ruby and rubygems installed
     $ cd using-svn2git
     $ bundle install
     $ mkdir ../new_repo && cd ../new_repo
-    $ svn2git http://svn.example.com/path/to/repo --authors ~/authors.txt -v --username YOUR_SVN_USER   
+    $ svn2git http://svn.example.com/path/to/repo --authors ~/authors.txt -v --username YOUR_SVN_USER  
+    $ git remote add origin READ_WRITE_GIT_REPO
+    $ git pull origin master
+    $ git push origin master
+    # Then push the branches/tags u desire
 
 Credits
 -------
