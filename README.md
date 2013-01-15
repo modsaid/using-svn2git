@@ -38,7 +38,8 @@ make sure you have git, ruby and rubygems installed
     $ git remote add origin READ_WRITE_GIT_REPO
     $ git pull origin master
     $ git push origin master
-    # Then push the branches/tags u desire
+    # Then push the branches/tags u desire. or push all using:
+    $ git push --all
 
 Credits
 -------
